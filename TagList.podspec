@@ -37,5 +37,6 @@ TagList, flexible tag list view, easy to use & extend. I love it.
 
   s.public_header_files = 'Framework/SwiftTagList/**/*.h'
   s.frameworks = 'UIKit'
+  s.swift_version = '3.3'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
